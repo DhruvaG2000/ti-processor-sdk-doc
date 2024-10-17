@@ -1,6 +1,9 @@
 Processor SDK Documentation in Sphinx
 =====================================
 
+
+# Contribution guidelines
+
 ## Instructions to build the project on Ubuntu
 
 ### Install tools on Ubuntu
